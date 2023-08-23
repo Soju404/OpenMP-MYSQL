@@ -1,0 +1,1 @@
+AddCharModel(2, 20001, "maccer.dff", "maccer.txd");
